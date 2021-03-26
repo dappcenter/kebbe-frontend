@@ -25,7 +25,7 @@ const Hero = styled.div`
   text-align: center;
 
   ${({ theme }) => theme.mediaQueries.lg} {
-    background-image: url('/images/cropped/2.png'), url('/images/cropped/4.png');
+    background-image: url('/images/cropped/kebbe-dish-165.png'), url('/images/cropped/kebbe-dish-veggie-165.png');
     background-position: left center, right center;
     background-size: 165px auto;
     height: 165px;

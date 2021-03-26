@@ -12,24 +12,6 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://pancakeswap.finance/',
   },
-  txl: {
-    symbol: 'TXL',
-    address: {
-      56: '0x1ffd0b47127fdd4097e54521c9e2c7f0d66aafc5',
-      97: '',
-    },
-    decimals: 18,
-    projectLink: 'https://tixl.org/',
-  },
-  cos: {
-    symbol: 'COS',
-    address: {
-      56: '0x96Dd399F9c3AFda1F194182F71600F1B65946501',
-      97: '',
-    },
-    decimals: 18,
-    projectLink: 'https://www.contentos.io/',
-  },
   bunny: {
     symbol: 'BUNNY',
     address: {
@@ -38,33 +20,6 @@ const tokens = {
     },
     decimals: 18,
     projectLink: 'https://pancakebunny.finance/',
-  },
-  alice: {
-    symbol: 'ALICE',
-    address: {
-      56: '0xac51066d7bec65dc4589368da368b212745d63e8',
-      97: '',
-    },
-    decimals: 6,
-    projectLink: 'https://www.myneighboralice.com/',
-  },
-  for: {
-    symbol: 'FOR',
-    address: {
-      56: '0x658A109C5900BC6d2357c87549B651670E5b0539',
-      97: '',
-    },
-    decimals: 18,
-    projectLink: 'https://www.for.tube/home',
-  },
-  bux: {
-    symbol: 'BUX',
-    address: {
-      56: '0x211ffbe424b90e25a15531ca322adf1559779e45',
-      97: '',
-    },
-    decimals: 18,
-    projectLink: 'https://getbux.com/bux-crypto/',
   },
   nuls: {
     symbol: 'NULS',
@@ -381,51 +336,6 @@ const tokens = {
     decimals: 2,
     projectLink: 'https://www.chiliz.com',
   },
-  reef: {
-    symbol: 'REEF',
-    address: {
-      56: '0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e',
-      97: '',
-    },
-    decimals: 18,
-    projectLink: 'https://reef.finance/',
-  },
-  ditto: {
-    symbol: 'DITTO',
-    address: {
-      56: '0x233d91a0713155003fc4dce0afa871b508b3b715',
-      97: '',
-    },
-    decimals: 9,
-    projectLink: 'https://ditto.money/',
-  },
-  juv: {
-    symbol: 'JUV',
-    address: {
-      56: '0xc40c9a843e1c6d01b7578284a9028854f6683b1b',
-      97: '',
-    },
-    decimals: 2,
-    projectLink: 'https://www.chiliz.com',
-  },
-  psg: {
-    symbol: 'PSG',
-    address: {
-      56: '0xbc5609612b7c44bef426de600b5fd1379db2ecf1',
-      97: '',
-    },
-    decimals: 2,
-    projectLink: 'https://www.chiliz.com',
-  },
-  vai: {
-    symbol: 'VAI',
-    address: {
-      56: '0x4bd17003473389a42daf6a0a729f6fdb328bbbd7',
-      97: '',
-    },
-    decimals: 18,
-    projectLink: 'https://venus.io/',
-  },
   wbnb: {
     symbol: 'wBNB',
     address: {
@@ -578,24 +488,6 @@ const tokens = {
     },
     decimals: 18,
     projectLink: 'https://pancakeswap.finance/',
-  },
-  bifi: {
-    symbol: 'BIFI',
-    address: {
-      56: '0xca3f508b8e4dd382ee878a314789373d80a5190a',
-      97: '',
-    },
-    decimals: 18,
-    projectLink: 'https://beefy.finance/',
-  },
-  dusk: {
-    symbol: 'DUSK',
-    address: {
-      56: '0xb2bd0749dbe21f623d9baba856d3b0f0e1bfec9c',
-      97: '',
-    },
-    decimals: 18,
-    projectLink: 'https://dusk.network/',
   },
   busd: {
     symbol: 'BUSD',

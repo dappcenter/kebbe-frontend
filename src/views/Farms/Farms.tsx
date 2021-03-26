@@ -404,7 +404,7 @@ const Farms: React.FC = () => {
           </FilterContainer>
         </ControlContainer>
         {renderContent()}
-        <StyledImage src="/images/3dpan.png" alt="Pancake illustration" width={120} height={103} />
+        <StyledImage src="/images/kebbe-square.png" alt="KEBBE illustration" width={120} height={120} />
       </Page>
     </>
   )
