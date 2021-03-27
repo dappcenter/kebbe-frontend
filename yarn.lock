@@ -1926,6 +1926,31 @@
   dependencies:
     "@json-rpc-tools/types" "^1.6.1"
 
+"@kebbeswapfinance-libs/eslint-config-kebbe@^1.0.1":
+  "integrity" "sha512-Wi/mTtE28k6jHoEDxWQ52/CWt3gbjSodRX/8RfVt7Q7E2XWHgkH1BicBbRcTqpIMWtUHsytOnpnj668NzvVY/w=="
+  "resolved" "https://registry.npmjs.org/@kebbeswapfinance-libs/eslint-config-kebbe/-/eslint-config-kebbe-1.0.1.tgz"
+  "version" "1.0.1"
+  dependencies:
+    "@typescript-eslint/eslint-plugin" "^4.7.0"
+    "@typescript-eslint/parser" "^4.7.0"
+    "eslint-config-airbnb" "^18.2.1"
+    "eslint-config-prettier" "^6.15.0"
+    "eslint-plugin-import" "^2.22.1"
+    "eslint-plugin-jsx-a11y" "^6.4.1"
+    "eslint-plugin-react" "^7.21.5"
+    "eslint-plugin-react-hooks" "^4.0.0"
+
+"@kebbeswapfinance-libs/uikit@^1.0.1":
+  "integrity" "sha512-9gw4MiTi2dutdLLDblywPgrLiog1yaS8GjRedTlKDPrulGC3JujbFE8z4S9yWenyEn4+zTjeXRWS8FuCKerTtA=="
+  "resolved" "https://registry.npmjs.org/@kebbeswapfinance-libs/uikit/-/uikit-1.0.1.tgz"
+  "version" "1.0.1"
+  dependencies:
+    "@types/lodash" "^4.14.162"
+    "@types/styled-system" "^5.1.10"
+    "lodash" "^4.17.20"
+    "react-transition-group" "^4.4.1"
+    "styled-system" "^5.1.5"
+
 "@metamask/safe-event-emitter@^2.0.0":
   "integrity" "sha512-/kSXhY692qiV1MXu6EeOZvg5nECLclxNXcKCxJ3cXQgYuRymRHpdx/t7JXfsK+JLjwA1e1c1/SBrlQYpusC29Q=="
   "resolved" "https://registry.npmjs.org/@metamask/safe-event-emitter/-/safe-event-emitter-2.0.0.tgz"
@@ -1973,17 +1998,6 @@
     "eslint-plugin-jsx-a11y" "^6.4.1"
     "eslint-plugin-react" "^7.21.5"
     "eslint-plugin-react-hooks" "^4.0.0"
-
-"@pancakeswap-libs/uikit@^0.14.1":
-  "integrity" "sha512-PknRl6qIXSCPPCTseTCEnzaXuW8dowAGUbus500IEZMOtl+hZu+D0g8s0tG6DRcwEIWF1RLmYIWJjuJHiKv8IQ=="
-  "resolved" "https://registry.npmjs.org/@pancakeswap-libs/uikit/-/uikit-0.14.1.tgz"
-  "version" "0.14.1"
-  dependencies:
-    "@types/lodash" "^4.14.162"
-    "@types/styled-system" "^5.1.10"
-    "lodash" "^4.17.20"
-    "react-transition-group" "^4.4.1"
-    "styled-system" "^5.1.5"
 
 "@pedrouid/iso-crypto@^1.0.0":
   "integrity" "sha512-twi+tW67XT0BSOv4rsegnGo4TQMhfFswS/GY3KhrjFiNw3z9x+cMkfO+itNe1JZghQxsxHuhifvfsnG814g1hQ=="

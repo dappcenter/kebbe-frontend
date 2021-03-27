@@ -11,7 +11,7 @@ import {
   Text,
   CardFooter,
   useModal,
-} from '@pancakeswap-libs/uikit'
+} from '@kebbeswapfinance-libs/uikit'
 // import { useProfile } from 'state/hooks'
 import useI18n from 'hooks/useI18n'
 import { Nft } from 'config/constants/types'
@@ -51,7 +51,7 @@ const InfoBlock = styled.div`
 const NftCard: React.FC<NftCardProps> = ({ nft, onSuccess, canClaim = false, tokenIds = [] }) => {
   const [isOpen, setIsOpen] = useState(false)
   const TranslateString = useI18n()
-// const { profile } = useProfile()
+  // const { profile } = useProfile()
   const { bunnyId, name, description } = nft
   const walletOwnsNft = tokenIds.length > 0
   const Icon = isOpen ? ChevronUpIcon : ChevronDownIcon
